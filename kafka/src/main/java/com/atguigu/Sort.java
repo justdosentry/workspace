@@ -2,6 +2,10 @@ package com.atguigu;
 
 public class Sort {
 
+    /**
+     * 主方法
+     * @param args
+     */
     public static void main(String[] args) {
         int[] a = {3,6,1,8,3,0};
         int[] b = quickSort(0,a.length-1,a);
