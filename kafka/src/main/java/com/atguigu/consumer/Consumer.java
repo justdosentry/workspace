@@ -7,7 +7,9 @@ import org.apache.kafka.clients.consumer.KafkaConsumer;
 
 import java.util.Arrays;
 import java.util.Properties;
-
+/**
+ *git 注释
+ */
 public class Consumer {
 
     public static void main(String[] args) {
